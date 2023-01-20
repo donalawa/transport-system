@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         @vite(['resources/css/app.css'])
+        @vite(['resources/css/style.css'])
         <script src="//unpkg.com/alpinejs" defer></script>
         
         <title>Transport System</title>

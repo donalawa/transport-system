@@ -261,7 +261,7 @@
         </svg>
         <span class="relative">The</span>
       </span>
-      quick, brown fox jumps over a lazy dog
+      best, Booking service in town
     </h2>
     <p class="text-base text-gray-700 md:text-lg">
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque rem aperiam, eaque ipsa quae.
@@ -320,9 +320,9 @@
       </div>
     </div>
     <div class="grid grid-cols-2 gap-5">
-      <img class="object-cover w-full h-56 col-span-2 rounded shadow-lg" src="https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260" alt="" />
-      <img class="object-cover w-full h-48 rounded shadow-lg" src="https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260" alt="" />
-      <img class="object-cover w-full h-48 rounded shadow-lg" src="https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260" alt="" />
+      <img class="object-cover w-full h-56 col-span-2 rounded shadow-lg" src="https://www.availablecar.com/wp-content/uploads/Andra-Health-02.jpg" alt="" />
+      <img class="object-cover w-full h-48 rounded shadow-lg" src="https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/dealers_568.jpg" alt="" />
+      <img class="object-cover w-full h-48 rounded shadow-lg" src="https://c8.alamy.com/comp/H706J6/used-car-dealers-display-of-a-line-of-colourful-second-hand-bmw-mini-H706J6.jpg" alt="" />
     </div>
   </div>
 </div>

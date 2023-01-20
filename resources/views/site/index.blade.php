@@ -18,9 +18,9 @@
         Brand new
       </p>
       <h2 class="mb-5 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
-        Everything you<br class="hidden md:block" />
-        can imagine
-        <span class="inline-block text-deep-purple-accent-400">is real</span>
+        Booking a Ride  <br class="hidden md:block" />
+        With Us
+        <span class="inline-block text-deep-purple-accent-400">Is Amazing</span>
       </h2>
       <p class="pr-5 mb-5 text-base text-gray-700 md:text-lg">
         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.
